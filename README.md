@@ -4,4 +4,4 @@ Proyecto desarrollado con **React** y **Vite**.
 Estilos: **Tailwind.css**
 Almacenamiento de información en Local Storage.
 
-Deploy in [Netlifly](https://competent-brown-584199.netlify.app/)
+Deploy in [Netlifly](https://reverent-montalcini-910436.netlify.app/)
